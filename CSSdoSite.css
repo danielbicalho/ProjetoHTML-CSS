@@ -56,9 +56,9 @@ h1 {
 .sidenote {
     background-color: #FFFBE4;
     border: 1px solid #C9BC8F;
-    float: right;
+    float: center;
     padding: 10px;
-    width: 260px;  
+    width: 1000px;  
 }
             
 .sidenote h3 {
@@ -69,3 +69,8 @@ h1 {
 .sidenote ol {
 font-size: 12px;
 }
+
+.places {
+    float: left;
+    width: 600px;
+    }
